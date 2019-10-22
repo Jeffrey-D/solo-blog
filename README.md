@@ -10,8 +10,8 @@ Ishland的小窝
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.duanzy.xyz/my-github-repos)
-* [世界，你好！](http://www.duanzy.xyz/hello-solo)
+* [我在 GitHub 上的开源项目](http://duanzy.xyz/my-github-repos)
+* [世界，你好！](http://duanzy.xyz/hello-solo)
 
 
 
