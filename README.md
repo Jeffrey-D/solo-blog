@@ -10,6 +10,7 @@ Ishland的小屋
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://solo.duanzy.xyz/my-github-repos)
 * [世界，你好！](http://solo.duanzy.xyz/hello-solo)
 
 
