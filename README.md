@@ -10,6 +10,11 @@ Ishland的小屋
 
 ### 最新
 
+* [Request--前缀知识](http://solo.duanzy.xyz/articles/2019/10/27/1572164768872.html)
+* [02.DAO设计模式](http://solo.duanzy.xyz/articles/2019/10/27/1572164676063.html)
+* [01.jsp 连接数据库，数据库操作](http://solo.duanzy.xyz/articles/2019/10/27/1572164640480.html)
+* [03.EditText控件的显示](http://solo.duanzy.xyz/articles/2019/10/27/1572164544159.html)
+* [02.Android页面跳转---Intent](http://solo.duanzy.xyz/articles/2019/10/27/1572164438876.html)
 * [我在 GitHub 上的开源项目](http://solo.duanzy.xyz/my-github-repos)
 * [世界，你好！](http://solo.duanzy.xyz/hello-solo)
 
