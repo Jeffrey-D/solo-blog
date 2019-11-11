@@ -16,7 +16,6 @@ Ishland的小屋
 * [03.EditText控件的显示](http://solo.duanzy.xyz/articles/2019/10/27/1572164544159.html)
 * [02.Android页面跳转---Intent](http://solo.duanzy.xyz/articles/2019/10/27/1572164438876.html)
 * [我在 GitHub 上的开源项目](http://solo.duanzy.xyz/my-github-repos)
-* [世界，你好！](http://solo.duanzy.xyz/hello-solo)
 
 
 
